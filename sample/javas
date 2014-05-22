@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python $JAVAS_HOME/javas.py $1 $2 $3

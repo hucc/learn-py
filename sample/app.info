@@ -1,0 +1,2 @@
+mainclass:: com.eastmoney.main.IndexServerStartUp
+vmoptions:: -Xms512M -Xmx1G -Xss256k
